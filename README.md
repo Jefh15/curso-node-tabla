@@ -19,6 +19,7 @@ Options:
   ```
   
 # Información del proyecto
+```
 Temas del proyecto:
 Se enfoca en los siguientes temas:
 
@@ -28,7 +29,9 @@ Se enfoca en los siguientes temas:
 4. NPM
     41. Install
     42. Uninstall
+
 5. Package.json
 6. Yargs
 7. Recibir parámetros por línea de comando
 8. Colores para la consola
+```
