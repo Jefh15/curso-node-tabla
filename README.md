@@ -27,9 +27,8 @@ Se enfoca en los siguientes temas:
 2. Requerir paquetes
 3. Importar archivos personalizados
 4. NPM
-    41. Install
-    42. Uninstall
-
+    4.0.1. Install
+    4.0.2. Uninstall
 5. Package.json
 6. Yargs
 7. Recibir parámetros por línea de comando
